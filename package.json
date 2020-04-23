@@ -1,0 +1,17 @@
+{
+  "name": "expresscrashcourse",
+  "version": "1.0.0",
+  "description": "express crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abrar Ul Haque",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "socket.io": "^2.3.0"
+  }
+}
