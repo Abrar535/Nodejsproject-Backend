@@ -2,7 +2,7 @@
 
 ## Clone Project
 ```
-$git clone
+$git clone https://github.com/Abrar535/Nodejsproject-Backend
 ```
 
 ## Project setup
